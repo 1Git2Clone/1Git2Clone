@@ -11,14 +11,14 @@ Also on [Codeberg](https://codeberg.org/1kill2steal).
 <p align="center">
   <a href="https://github.com/1git2clone">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=1git2clone&theme=tokyonight&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
     />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/1git2clone">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,css,scss,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
     />
   </a>
 </p>
