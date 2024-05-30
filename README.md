@@ -1,4 +1,8 @@
-# Main on [GitLab](https://gitlab.com/1kill2steal)
+# Profile Description
+
+Main on [GitLab](https://gitlab.com/1kill2steal).
+
+Also on [Codeberg](https://codeberg.org/1kill2steal).
 
 ## Readme stats
 
