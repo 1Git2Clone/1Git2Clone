@@ -35,7 +35,7 @@ A comprehensive list of some of the main projects I've worked on. Credit to
 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons/) for the svg
 icons used.
 
-### [Dotfiles](https://gitlab.com/1kill2steal/dotfiles)
+### [Dotfiles](https://github.com/1kill2steal/dotfiles)
 
 <p>
   <img
@@ -56,7 +56,7 @@ My Dotfiles repo containing my configs for: Neovim, Zsh and Bash, Tmux, i3wm,
 kitty and mocha as well as some utility programs that are exported to the
 `$PATH` variable.
 
-### [Yew Site](https://gitlab.com/1k2s/yew-site)
+### [Yew Site](https://github.com/1kill2steal/yew-site)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a7cccd56-43ac-49f4-abd7-38c56ba83f18/deploy-status)](https://1k2s.netlify.app)
 
@@ -88,7 +88,7 @@ well as an image gallery and a blogging page. You can think of it as the
 homepage of this project. It showcases most of the projects listed here but
 not all of them are in the site's showcase list.
 
-### [Discord Interactions Bot](https://gitlab.com/1k2s/discord-interactions-bot)
+### [Discord Interactions Bot](https://github.com/1kill2steal/discord-interactions-bot)
 
 <p>
   <img
@@ -109,11 +109,11 @@ not all of them are in the site's showcase list.
   />
 </p>
 
-This was my first Discord bot which was made via `Discord.JS` using 
+This was my first Discord bot which was made via `Discord.JS` using
 `TypeScript` with `NodeJS` and `npm`. The database is `MongoDB` which works
 very well with `NodeJS` projects.
 
-### [Serenity Discord Bot](https://gitlab.com/1k2s/serenity-discord-bot)
+### [Serenity Discord Bot](https://github.com/1kill2steal/serenity-discord-bot)
 
 <p>
   <img
@@ -131,14 +131,14 @@ very well with `NodeJS` projects.
 </p>
 
 This is a revised version of the original
-[discord interactions bot](https://gitlab.com/1k2s/discord-interactions-bot)
+[discord interactions bot](https://github.com/1kill2steal/discord-interactions-bot)
 which was my first poor attempt at making a bot that allows for user
-interactions. This version uses `SQLite` (instead of `MongoDB`) as well as 
-`Rust` via the `Poise` and Serenity frameworks (instead of `TypeScript` via 
+interactions. This version uses `SQLite` (instead of `MongoDB`) as well as
+`Rust` via the `Poise` and Serenity frameworks (instead of `TypeScript` via
 `Discord.JS`) as the primary language and frameworks. The current one also has
 a `Docker` and `Docker Compose` configuration.
 
-### [Hunger Games Website](https://gitlab.com/1k2s/hunger-games-website)
+### [Hunger Games Website](https://github.com/1kill2steal/hunger-games-website)
 
 <p>
   <img
@@ -160,7 +160,7 @@ This website was inspired from
 [GitLab pages](https://1k2s.gitlab.io/hunger-games-website/). It's built with
 `Typescript`, `HTML` and `CSS`.
 
-### [LeetCode Trees](https://gitlab.com/1k2s/leetcode-trees-rs)
+### [LeetCode Trees](https://github.com/1kill2steal/leetcode-trees-rs)
 
 <p>
   <img
@@ -174,7 +174,7 @@ library itself contains required LeetCode structs signatures such as:
 `TreeNode` and the `ListNode` signatures. Additionally, the library provides
 the users with powerful macros which excel the ease of code generation.
 
-### [Counting blinks](https://gitlab.com/1k2s/counting-blinks)
+### [Counting blinks](https://github.com/1kill2steal/counting-blinks)
 
 <p>
   <img
@@ -186,7 +186,7 @@ the users with powerful macros which excel the ease of code generation.
 A `Rust` app (via the `arduino_hal` crate) that works with 3 blinking leds
 which implement the basic binary counting (implemented via bitshifting).
 
-### [Rust RPS](https://gitlab.com/1k2s/rust-rps)
+### [Rust RPS](https://github.com/1kill2steal/rust-rps)
 
 <p>
   <img
@@ -198,7 +198,7 @@ which implement the basic binary counting (implemented via bitshifting).
 A simple `CLI` `Rust` Rock Paper Scissors game implemented using Enums,
 HashMaps and parsing from the user input.
 
-### [Matrix Math](https://gitlab.com/1k2s/matrix-math)
+### [Matrix Math](https://github.com/1kill2steal/matrix-math)
 
 <p>
   <img
@@ -210,7 +210,7 @@ HashMaps and parsing from the user input.
 A `Rust` attempt of a library that does Matrix operations. It's incredibly
 sub-optimal as it uses double heap indirection in the form of: `Vec<Vec<T>>`.
 
-### [Rust OS](https://gitlab.com/1k2s/rust-os)
+### [Rust OS](https://github.com/1kill2steal/rust-os)
 
 <p>
   <img
