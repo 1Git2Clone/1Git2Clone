@@ -31,7 +31,28 @@ D2B0C2CD2BAC465C = commits, authenticated over SSH.
 
 ## List Of Projects
 
-This is the comprehensive list of the current projects:
+A comprehensive list of some of the main projects I've worked on.
+
+### [Dotfiles](https://gitlab.com/1kill2steal/dotfiles)
+
+<p>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Arch-Light.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Bash-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/NeoVim-Light.svg"
+  />
+</p>
+
+My Dotfiles repo containing my configs for: Neovim, Zsh and Bash, Tmux, i3wm,
+kitty and mocha as well as some utility programs that are exported to the
+`$PATH` variable.
 
 ### [Yew Site](https://gitlab.com/1k2s/yew-site)
 
