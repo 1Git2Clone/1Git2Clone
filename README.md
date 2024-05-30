@@ -31,7 +31,9 @@ D2B0C2CD2BAC465C = commits, authenticated over SSH.
 
 ## List Of Projects
 
-A comprehensive list of some of the main projects I've worked on.
+A comprehensive list of some of the main projects I've worked on. Credit to
+[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons/) for the svg
+icons used.
 
 ### [Dotfiles](https://gitlab.com/1kill2steal/dotfiles)
 
