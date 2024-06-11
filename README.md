@@ -88,6 +88,47 @@ well as an image gallery and a blogging page. You can think of it as the
 homepage of this project. It showcases most of the projects listed here but
 not all of them are in the site's showcase list.
 
+### [Reactix](https://github.com/1git2clone/reactix)
+
+**Back-end**
+
+<p>
+  <img height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Actix-Dark.svg"
+  />
+</p>
+
+**Front-end**
+
+<p>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/React-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Vite-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TailwindCSS-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TypeScript.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/HTML.svg"
+  />
+</p>
+
+A monorepo example written with React + Tailwind + TS on the front-end and Actix.rs on the back-end.
+
 ### [Discord Interactions Bot](https://github.com/1git2clone/discord-interactions-bot)
 
 <p>
