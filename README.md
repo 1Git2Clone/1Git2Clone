@@ -1,27 +1,37 @@
 # Profile Description
 
-Main on [GitLab](https://gitlab.com/1kill2steal).
+Other profiles on:
 
-Also on [Codeberg](https://codeberg.org/1kill2steal).
+- [GitLab](https://gitlab.com/1kill2steal)
+
+- [Codeberg](https://codeberg.org/1kill2steal)
+
+- [Old GitHub profile](https://github.com/1kill2steal)
 
 ## Readme stats
 
 ---
 
-<p align="center">
-  <a href="https://github.com/1git2clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
-    />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/1git2clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+        <a href="https://github.com/1git2clone">
+          <img
+            height=330px
+            src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
+          />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/1git2clone">
+          <img
+            height=330px
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
+          />
+        </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,27 +44,6 @@ D2B0C2CD2BAC465C = commits, authenticated over SSH.
 A comprehensive list of some of the main projects I've worked on. Credit to
 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons/) for the svg
 icons used.
-
-### [Dotfiles](https://github.com/1git2clone/dotfiles)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Arch-Light.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Bash-Dark.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/NeoVim-Light.svg"
-  />
-</p>
-
-My Dotfiles repo containing my configs for: Neovim, Zsh and Bash, Tmux, i3wm,
-kitty and mocha as well as some utility programs that are exported to the
-`$PATH` variable.
 
 ### [Yew Site](https://github.com/1git2clone/yew-site)
 
@@ -214,56 +203,3 @@ A `Rust` library which uses Cargo make for the solutions directory and the
 library itself contains required LeetCode structs signatures such as:
 `TreeNode` and the `ListNode` signatures. Additionally, the library provides
 the users with powerful macros which excel the ease of code generation.
-
-### [Counting blinks](https://github.com/1git2clone/counting-blinks)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
-  />
-</p>
-
-A `Rust` app (via the `arduino_hal` crate) that works with 3 blinking leds
-which implement the basic binary counting (implemented via bitshifting).
-
-### [Rust RPS](https://github.com/1git2clone/rust-rps)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
-  />
-</p>
-
-A simple `CLI` `Rust` Rock Paper Scissors game implemented using Enums,
-HashMaps and parsing from the user input.
-
-### [Matrix Math](https://github.com/1git2clone/matrix-math)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
-  />
-</p>
-
-A `Rust` attempt of a library that does Matrix operations. It's incredibly
-sub-optimal as it uses double heap indirection in the form of: `Vec<Vec<T>>`.
-
-### [Rust OS](https://github.com/1git2clone/rust-os)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
-  />
-</p>
-
-A basic VGA output displaying operating system built in `Rust` which can't even
-compile on my machine.
-
-<!---
-1Git2Clone/1Git2Clone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
