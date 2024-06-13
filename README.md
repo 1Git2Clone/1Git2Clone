@@ -1,12 +1,24 @@
 # Profile Description
 
-Other profiles on:
+<div>
 
-- [GitLab](https://gitlab.com/1kill2steal)
+<div align="left">
+  
+  Other profiles on:
+  
+  - [GitLab](https://gitlab.com/1kill2steal)
+  
+  - [Codeberg](https://codeberg.org/1kill2steal)
+  
+  - [Old GitHub profile](https://github.com/1kill2steal)
 
-- [Codeberg](https://codeberg.org/1kill2steal)
+</div>
 
-- [Old GitHub profile](https://github.com/1kill2steal)
+<div align="right">
+  
+</div>
+
+</div>
 
 ## Readme stats
 
@@ -39,7 +51,7 @@ Other profiles on:
 
 D2B0C2CD2BAC465C = commits, authenticated over SSH.
 
-## List Of Projects
+## Notable Projects
 
 A comprehensive list of some of the main projects I've worked on. Credit to
 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons/) for the svg
