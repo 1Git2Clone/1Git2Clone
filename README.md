@@ -1,9 +1,12 @@
-# Profile Description
+<h1>Profile Description</h1>
 
-<div>
+<table align=center>
+ <tr>
+  <td>
+  <p>
+    Just an 18 year old with a passion for programming.
+  </p>
 
-<div align="left">
-  
   Other profiles on:
   
   - [GitLab](https://gitlab.com/1kill2steal)
@@ -11,68 +14,55 @@
   - [Codeberg](https://codeberg.org/1kill2steal)
   
   - [Old GitHub profile](https://github.com/1kill2steal)
-
-</div>
-
-<div align="right">
   
-</div>
+  <br />
 
-</div>
+  <p>
+    <b>
+      Check out 
+      <a href="https://1k2s.netlify.app" target="_blank">
+        my site</a>!
+    </b>
+  </p>
+  
+  
+  <br />
 
-## Readme stats
-
----
-
-<table align="center">
-  <tr>
-    <td>
-        <a href="https://github.com/1git2clone">
-          <img
-            height=330px
-            src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
-          />
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/1git2clone">
-          <img
-            height=330px
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
-          />
-        </a>
-    </td>
-  </tr>
+  <a href="https://github.com/1git2clone">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
+    />
+  </a>
+  
+  </td>
+  <td>
+    <a href="https://github.com/1git2clone">
+      <img
+        height=500px
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
+      />
+    </a>
+  </td>
+ </tr>
 </table>
 
----
+<hr>
 
-## GPG KEYS
+<h2 align=center>Skills</h2>
 
-D2B0C2CD2BAC465C = commits, authenticated over SSH.
-
-## Notable Projects
-
-A comprehensive list of some of the main projects I've worked on. Credit to
-[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons/) for the svg
-icons used.
-
-### [Yew Site](https://github.com/1git2clone/yew-site)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/09fe8d27-526e-4c93-a05e-918da6455e77/deploy-status)](https://1k2s.netlify.app)
-
-<!-- Using <p> instead of <div> for the line break at the end. -->
-<p>
-  <img height="50px"
+<div align="center">
+  <h3>Languages</h3>
+  <img 
+    height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
   />
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Yew-Light.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TypeScript.svg"
   />
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Sass.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/JavaScript.svg"
   />
   <img
     height="50px"
@@ -80,35 +70,67 @@ icons used.
   />
   <img
     height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Bash-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/C.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/CPP.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/PHP-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/CSS.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Sass.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Markdown-Light.svg"
+  />
+  <img
+    height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/HTML.svg"
   />
-</p>
+</div>
 
-This is the actual visitable site which contains the project's showcases as
-well as an image gallery and a blogging page. You can think of it as the
-homepage of this project. It showcases most of the projects listed here but
-not all of them are in the site's showcase list.
-
-### [Reactix](https://github.com/1git2clone/reactix)
-
-**Back-end**
-
-<p>
-  <img height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
+<div align="center">
+  <h3>Frameworks</h3>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Yew-Light.svg"
   />
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Actix-Dark.svg"
   />
-</p>
-
-**Front-end**
-
-<p>
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/React-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TailwindCSS-Dark.svg"
+  />
+</div>
+
+<div align="center">
+  <h3>Tools</h3>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Git.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/GithubActions-Light.svg"
   />
   <img
     height="50px"
@@ -116,26 +138,7 @@ not all of them are in the site's showcase list.
   />
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TailwindCSS-Dark.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TypeScript.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/HTML.svg"
-  />
-</p>
-
-A monorepo example written with React + Tailwind + TS on the front-end and Actix.rs on the back-end.
-
-### [Discord Interactions Bot](https://github.com/1git2clone/discord-interactions-bot)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TypeScript.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Docker.svg"
   />
   <img
     height="50px"
@@ -147,20 +150,19 @@ A monorepo example written with React + Tailwind + TS on the front-end and Actix
   />
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/MongoDB.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Yarn-Light.svg"
   />
-</p>
-
-This was my first Discord bot which was made via `Discord.JS` using
-`TypeScript` with `NodeJS` and `npm`. The database is `MongoDB` which works
-very well with `NodeJS` projects.
-
-### [Serenity Discord Bot](https://github.com/1git2clone/serenity-discord-bot)
-
-<p>
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Netlify-Light.svg"
+  />
+</div>
+
+<div align="center">
+  <h3>Databases</h3>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/MySQL-Light.svg"
   />
   <img
     height="50px"
@@ -168,50 +170,72 @@ very well with `NodeJS` projects.
   />
   <img
     height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Docker.svg"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/MongoDB.svg"
   />
+</div>
+
+<div align="center">
+  <h3>Operating systems</h3>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Linux-Light.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Mint-Light.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Ubuntu-Light.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Arch-Dark.svg"
+  />
+</div>
+
+<div align="center">
+  <h3>Editors</h3>
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/NeoVim-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/VIM-Dark.svg"
+  />
+  <img
+    height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/VSCode-Dark.svg"
+  />
+</div>
+
+<p></p>
+<p align="right">
+  Credit to 
+  <a href="https://github.com/tandpfun/skill-icons/" target="_blank">
+    tandpfun/skill-icons
+  </a>
+  for the svg icons used.
 </p>
 
-This is a revised version of the original
-[discord interactions bot](https://github.com/1git2clone/discord-interactions-bot)
-which was my first poor attempt at making a bot that allows for user
-interactions. This version uses `SQLite` (instead of `MongoDB`) as well as
-`Rust` via the `Poise` and Serenity frameworks (instead of `TypeScript` via
-`Discord.JS`) as the primary language and frameworks. The current one also has
-a `Docker` and `Docker Compose` configuration.
+<hr>
 
-### [Hunger Games Website](https://github.com/1git2clone/hunger-games-website)
+<h2 align=center>GPG KEYS</h2>
 
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/TypeScript.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/CSS.svg"
-  />
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/HTML.svg"
-  />
-</p>
-
-This website was inspired from
-[this site](https://simublast.com/hunger-games-simulator/) and is hosted on
-[GitLab pages](https://1k2s.gitlab.io/hunger-games-website/). It's built with
-`Typescript`, `HTML` and `CSS`.
-
-### [LeetCode Trees](https://github.com/1git2clone/leetcode-trees-rs)
-
-<p>
-  <img
-    height="50px"
-    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
-  />
-</p>
-
-A `Rust` library which uses Cargo make for the solutions directory and the
-library itself contains required LeetCode structs signatures such as:
-`TreeNode` and the `ListNode` signatures. Additionally, the library provides
-the users with powerful macros which excel the ease of code generation.
+<table align=center>
+  <th>
+    Key
+  </th>
+  <th>
+    Comment
+  </th>
+  <tr>
+    <td>
+      D2B0C2CD2BAC465C
+    </td>
+    <td>
+      For commits authenticated over SSH.
+    </td>
+  </tr>
+</table>
