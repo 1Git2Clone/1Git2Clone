@@ -178,6 +178,10 @@
   <h3>Operating systems</h3>
   <img
     height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Windows-Light.svg"
+  />
+  <img
+    height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Linux-Light.svg"
   />
   <img
