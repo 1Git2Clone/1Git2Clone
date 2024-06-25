@@ -82,6 +82,10 @@
   />
   <img
     height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/CS.svg"
+  />
+  <img
+    height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Kotlin-Dark.svg"
   />
   <img
