@@ -264,10 +264,26 @@
   </th>
   <tr>
     <td>
+      B5690EEEBB952194
+    </td>
+    <td>
+      Online on my GitHub profile
+    </td>
+  </tr>
+  <tr>
+    <td>
       D2B0C2CD2BAC465C
     </td>
     <td>
-      For commits authenticated over SSH.
+      For commits authenticated over SSH. (before 12th June 2024)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      47BD645B9D5D62DD
+    </td>
+    <td>
+      For commits authenticated over SSH. (After 12th June 2024 till now)
     </td>
   </tr>
 </table>
