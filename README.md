@@ -283,7 +283,15 @@
       47BD645B9D5D62DD
     </td>
     <td>
-      For commits authenticated over SSH. (After 12th June 2024 till now)
+      For commits authenticated over SSH. (After 12th of June 2024 till June 27th)
+    </td>
+  </tr>
+  <tr>
+    <td>
+      65FBC622BD8DE12D
+    </td>
+    <td>
+      For commits authenticated over SSH. (After 27th of June 2024 till now)
     </td>
   </tr>
 </table>
