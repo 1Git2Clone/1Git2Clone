@@ -1,50 +1,20 @@
 <h1>Profile Description</h1>
 
-<table align=center>
- <tr>
-  <td>
-  <p>
-    Just an 20 year old with a passion for programming.
-  </p>
+Just an 20 year old with a passion for programming.
 
-  Other profiles on:
+Other profiles on:
   
-  - [GitLab](https://gitlab.com/1kill2steal)
-  
-  - [Codeberg](https://codeberg.org/1kill2steal)
-  
-  - [Old GitHub profile](https://github.com/1kill2steal)
-  
-  <br />
+- [GitLab](https://gitlab.com/1kill2steal)
 
-  <p>
-    <b>
-      Check out 
-      <a href="https://1k2s.netlify.app" target="_blank">
-        my site</a>!
-    </b>
-  </p>
+- [Codeberg](https://codeberg.org/1kill2steal)
   
-  
-  <br />
+- [Old GitHub profile](https://github.com/1kill2steal)
 
-  <a href="https://github.com/1git2clone">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=1git2clone&show_icons=true&theme=tokyonight"
-    />
-  </a>
-  
-  </td>
-  <td>
-    <a href="https://github.com/1git2clone">
-      <img
-        height=500px
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=1git2clone&hide=javascript,scss,css,html,php,lua,nushell,red,powershell,dockerfile&theme=tokyonight&show_icons=true"
-      />
-    </a>
-  </td>
- </tr>
-</table>
+<b>
+  Check out 
+  <a href="https://1k2s.netlify.app" target="_blank">
+  my site</a>!
+</b>
 
 <hr>
 
