@@ -3,7 +3,9 @@
 Just an 20 year old with a passion for programming.
 
 Other profiles on:
-  
+
+- [Forgejo](https://git.hu-tao.dev/hutao)
+
 - [GitLab](https://gitlab.com/1kill2steal)
 
 - [Codeberg](https://codeberg.org/1kill2steal)
