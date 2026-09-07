@@ -240,3 +240,13 @@ Other profiles on:
 </p>
 
 <hr>
+
+<h2 align=center>Profile Visits</h2>
+
+<p align="center">
+  <img
+    src="https://count.getloli.com/@1Git2Clone?name=1Git2Clone&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
+    width="400px"
+    alt="1Git2Clone Visits"
+  />
+</p>
