@@ -46,6 +46,10 @@ Other profiles on:
   />
   <img
     height="50px"
+    src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Nix-Dark.svg"
+  />
+  <img
+    height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Ruby.svg"
   />
   <img
