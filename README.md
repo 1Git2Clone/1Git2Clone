@@ -70,8 +70,15 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
 
 <h2 align=center>Skills</h2>
 
-<div align="center">
-  <h3>Languages</h3>
+<p align="center">
+  <a href="https://github.com/tandpfun/skill-icons/" target="_blank">
+    tandpfun/skill-icons
+  </a>
+</p>
+
+### Languages
+
+<div align="left">
   <img 
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
@@ -142,8 +149,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-<div align="center">
-  <h3>Frameworks</h3>
+### Frameworks
+
+<div align="left">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Yew-Light.svg"
@@ -166,8 +174,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-<div align="center">
-  <h3>Tools & Infrastructure</h3>
+### Tools & Infrastructure
+
+<div align="left">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Git.svg"
@@ -210,8 +219,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-<div align="center">
-  <h3>Databases</h3>
+### Databases
+
+<div align="left">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/PostgreSQL-Dark.svg"
@@ -230,8 +240,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-<div align="center">
-  <h3>Operating systems</h3>
+### Operating systems
+
+<div align="left">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Windows-Light.svg"
@@ -258,8 +269,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-<div align="center">
-  <h3>Editors</h3>
+### Editors
+
+<div align="left">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/NeoVim-Dark.svg"
@@ -281,15 +293,6 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/AndroidStudio-Dark.svg"
   />
 </div>
-
-<p></p>
-<p align="right">
-  Credit to 
-  <a href="https://github.com/tandpfun/skill-icons/" target="_blank">
-    tandpfun/skill-icons
-  </a>
-  for the svg icons used.
-</p>
 
 <h2 align=center>Profile Visits</h2>
 
