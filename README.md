@@ -59,7 +59,7 @@ Here a few of the more notable ones:
 | **[VPS flake][vps]**            | 14 services, 3 trust boundaries, 0 manual steps          |
 | **[Serenity Discord bot][bot]** | Rust · Serenity/Poise · Postgres · Redis · tokio-console |
 | **[hu-tao.dev][site]**          | SvelteKit 2 · Svelte 5 · Tailwind v4 · skavex            |
-| **[skavex][skavex]**            | NPM package for Markdown + LaTeX + Svelte components     |
+| **[skavex][skavex]**            | npm package for Markdown + LaTeX + Svelte components     |
 
 ### Honorable mentions
 
