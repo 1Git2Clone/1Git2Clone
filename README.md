@@ -76,9 +76,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   </a>
 </p>
 
-### Languages
+<h3 align=center>Languages</h3>
 
-<div align="left">
+<div align="center">
   <img 
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Rust.svg"
@@ -149,7 +149,7 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-### Frameworks
+<h3 align=center>Frameworks</h3>
 
 <div align="left">
   <img
@@ -174,9 +174,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-### Tools & Infrastructure
+<h3 align=center>Tools & Infrastructure</h3>
 
-<div align="left">
+<div align="center">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Git.svg"
@@ -219,9 +219,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-### Databases
+<h3 align=center>Databases</h3>
 
-<div align="left">
+<div align="center">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/PostgreSQL-Dark.svg"
@@ -240,9 +240,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-### Operating systems
+<h3 align=center>Operating Systems</h3>
 
-<div align="left">
+<div align="center">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Windows-Light.svg"
@@ -269,9 +269,9 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
   />
 </div>
 
-### Editors
+<h3 align=center>Editors</h3>
 
-<div align="left">
+<div align="center">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/NeoVim-Dark.svg"
