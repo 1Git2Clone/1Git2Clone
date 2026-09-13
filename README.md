@@ -151,7 +151,7 @@ painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
 
 <h3 align=center>Frameworks</h3>
 
-<div align="left">
+<div align="center">
   <img
     height="50px"
     src="https://codeberg.org/1Kill2Steal/skill-icons/raw/branch/main/icons/Yew-Light.svg"
