@@ -18,7 +18,7 @@ A dev with the horrible habit of "doing it myself".
 My code lives on: [![git](https://img.shields.io/badge/git.hu--tao.dev-Forgejo-e05263?style=flat-square&labelColor=16181d&logo=forgejo&logoColor=e05263)][forgejo-me]
 
 But I hang around GitHub because it's a nicer social media than my
-single-tenant instance. It just happens to also let you host code.
+single-tenant instance. GitHub just happens to also let you host code.
 
 <h2 align=center>Infrastructure</h2>
 
