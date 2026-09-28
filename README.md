@@ -64,9 +64,9 @@ Here a few of the more notable ones:
 ### Honorable mentions
 
 [My dotfiles](https://github.com/1Git2Clone/dotfiles). The link is the old Arch
-ones. The ones I use currently are a private repo due to having third party
-artwork that the artist has denied redistribution of (*and NixOS makes it
-painful to not have it in git...* I don't want to set `--impure` 😭😭😭).
+ones.
+
+They got mogged by [the NixOS dotfiles](https://github.com/1Git2Clone/nixos-dotfiles).
 
 <h2 align=center>Profile Visits</h2>
 
